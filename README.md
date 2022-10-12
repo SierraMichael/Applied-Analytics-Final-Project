@@ -1,3 +1,5 @@
-# Applied-Analytics-Final-Project
-#This project starts by creating normal variables and putting those into a matrix and then into a dataframe. These variables/dataframe are analyzed 
-#through graphing and through logistical regression. This logistical regression. 
+# Applied-Data-Science-Project
+
+#This project uses R programming to work with simulation and plotting, iteration, data cleaning/wrangling, and data visualization/application.
+
+
